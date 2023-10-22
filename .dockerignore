@@ -1,0 +1,6 @@
+.git
+.vscode
+db.sqlite3
+README.md
+get-pip.py
+.gitignore
